@@ -1,0 +1,6 @@
+{
+  "name": "Clones y hallazgos de moda",
+  "description": "Plataforma de moda para descubrir clones accesibles, hallazgos de tendencia y conjuntos coordinados con estilista IA en pesos mexicanos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
